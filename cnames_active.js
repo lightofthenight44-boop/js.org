@@ -741,6 +741,7 @@ var cnames_active = {
   "cyclow": "pmros.github.io/cyclow", // noCF
   "cyliim": "cyliim.github.io",
   "cypresscameroon": "cypress-cameroon.github.io",
+  "cyphlink": "cyphlink.netlify.app",
   "cyrena": "cyrenajs.github.io/cyrena",
   "cyris": "icyris.github.io",
   "d-patterns": "alias.zeit.co", // noCF
